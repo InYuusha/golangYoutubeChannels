@@ -27,5 +27,5 @@ Youtube Channels for golang
 <br>
 <a href="https://www.youtube.com/channel/UCq4YrlwwXwF74Z3g-VDae2w"><b>Golang Cafe</b></a>
 <br>
-<a href="https://www.youtube.com/channel/UCljAHzX-PBxv6WrXkI2rnQw"><b>TutorialEdge</b></a>
+<a href="https://www.youtube.com/channel/UCljAHzX-PBxv6WrXkI2rnQw"><b>Scalable Scripts</b></a>
 <br>
