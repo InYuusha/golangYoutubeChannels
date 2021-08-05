@@ -15,3 +15,9 @@ Youtube Channels for golang
 <br>
 <a href="https://www.youtube.com/c/MathisVanEetvelde">Mathis Van Eetvelde</a>
 <br>
+<a href="https://www.youtube.com/channel/UC4VZwhJ4T42SVHy9QbZ5rKw">Daily Code Buffer</a>
+<br>
+<a href="https://www.youtube.com/channel/UCOw-DRfCmhOBUPMe4ltZOSA">Pragmatic Reviews</a>
+<br>
+<a href="https://www.youtube.com/c/DivRhino">Div Rhino</a>
+<br>
