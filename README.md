@@ -11,7 +11,7 @@ Youtube Channels for golang
 <br>
 <a href="https://www.youtube.com/channel/UC2GHqYE3fVJMncbrRd8AqcA"> Go In 5 Minutes </a>
 <br>
-<a href="httphttps://www.youtube.com/channel/UCuB4FSBjofpagXnBlHQUocA">Ajinkya X </a>
+<a href="httphttps://www.youtube.com/channel/UCuB4FSBjofpagXnBlHQUocA"> Ajinkya X</a>
 <br>
 <a href="https://www.youtube.com/c/MathisVanEetvelde">Mathis Van Eetvelde</a>
 <br>
