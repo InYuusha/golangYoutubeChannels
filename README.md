@@ -21,3 +21,7 @@ Youtube Channels for golang
 <br>
 <a href="https://www.youtube.com/c/DivRhino">Div Rhino</a>
 <br>
+<a href="https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA"> ProgrammingKnowledge</a>
+<br>
+<a href="https://www.youtube.com/c/CodingTech">Coding Tech</a>
+<br>
