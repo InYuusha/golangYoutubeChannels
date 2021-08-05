@@ -3,9 +3,9 @@ Youtube Channels for golang
 
 <a href="https://www.youtube.com/c/GolangDojo">Golang Dojo</a>
 <br>
-<a href="https://www.youtube.com/channel/UCI39wKG8GQnuzFPN5SM55qw">Alex Pliutau</a>
+<a href="https://www.youtube.com/channel/UCI39wKG8GQnuzFPN5SM55qw"><b>Alex Pliutau</b></a>
 <br>
-<a href="https://www.youtube.com/c/Tutorialedge">TutorialEdge</a>
+<a href="https://www.youtube.com/c/Tutorialedge"><b>TutorialEdge</b></a>
 <br>
 <a href="https://www.youtube.com/channel/UC-R6fvU6PlxwcrZ5Ixgvk9g">Steve Hook</a>
 <br>
@@ -25,7 +25,7 @@ Youtube Channels for golang
 <br>
 <a href="https://www.youtube.com/c/CodingTech">Coding Tech</a>
 <br>
-<a href="https://www.youtube.com/channel/UCq4YrlwwXwF74Z3g-VDae2w">Golang Cafe</a>
+<a href="https://www.youtube.com/channel/UCq4YrlwwXwF74Z3g-VDae2w"><b>Golang Cafe</b></a>
 <br>
-<a href="https://www.youtube.com/channel/UCljAHzX-PBxv6WrXkI2rnQw">Scalable Scripts</a>
+<a href="https://www.youtube.com/channel/UCljAHzX-PBxv6WrXkI2rnQw"><b>TutorialEdge</b></a>
 <br>
